@@ -1,0 +1,15 @@
+/Users/Dev/OneDrive/Programming/media-types/bin/Debug/net6.0/media-types
+/Users/Dev/OneDrive/Programming/media-types/bin/Debug/net6.0/media-types.deps.json
+/Users/Dev/OneDrive/Programming/media-types/bin/Debug/net6.0/media-types.runtimeconfig.json
+/Users/Dev/OneDrive/Programming/media-types/bin/Debug/net6.0/media-types.dll
+/Users/Dev/OneDrive/Programming/media-types/bin/Debug/net6.0/media-types.pdb
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/media-types.csproj.AssemblyReference.cache
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/media-types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/media-types.AssemblyInfoInputs.cache
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/media-types.AssemblyInfo.cs
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/media-types.csproj.CoreCompileInputs.cache
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/media-types.dll
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/refint/media-types.dll
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/media-types.pdb
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/media-types.genruntimeconfig.cache
+/Users/Dev/OneDrive/Programming/media-types/obj/Debug/net6.0/ref/media-types.dll
