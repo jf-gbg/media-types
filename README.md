@@ -24,3 +24,10 @@ in any of these suffixes:
     .zip
 
 If the file’s name ends with some other suffix or has no suffix at all, output application/octet-stream instead, which is a common default.
+
+
+Solution: 
+Create a class called File, an enum called extension and a dictionary called ExtensionToMediaType. 
+All Files should have en extension and a name. When the user enters a name for a file the program should automatically get the extension from the name
+by reading all the end characters up to the first "." character. This should be done using a private method in the class. 
+
