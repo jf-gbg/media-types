@@ -1,6 +1,6 @@
 # media-types
 
-Problem
+Problem:
 Even though Windows and macOS sometimes hide them, most files have file extensions, a suffix that starts with a period (.) at the end of their name. 
 For instance, file names for GIFs end with .gif, and file names for JPEGs end with .jpg or .jpeg. 
 When you double-click on a file to open it, your computer uses its file extension to determine which program to launch.
